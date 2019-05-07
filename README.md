@@ -1,5 +1,7 @@
 # travel
 
+仿照去哪儿网制作的简单vue前端界面，不成熟，紧紧作为学习vue框架的学习记录
+
 > A Vue.js project
 
 ## Build Setup
